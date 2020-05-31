@@ -3,4 +3,8 @@ Horlando tiene 22 años y nacio en Peru
 hoy hablaremos de su historia.
 Senas tiene 20 años y nacio en Huaraz
 mañana hablaremos de su vida laboral
+experimento 1
+experimento 2
+master1
+master 2
 esto es la parte del fork.
