@@ -11,3 +11,4 @@ en este curso vemos de todo:
 1. trucos locos del profesor
 1. enseñado por el increible platzi team
 1. incluye ejemplos en windows linux y mac
+1. disponible para todas las edades.
