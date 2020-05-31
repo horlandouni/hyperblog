@@ -9,3 +9,4 @@ en este curso vemos de todo:
 1. todos los trucos de git .
 1. el flujo de trabajo de github
 1. trucos locos del profesor
+1. enseñado por el increible platzi team
